@@ -1,0 +1,5 @@
+INSERT INTO tbl_author(id, first_name, last_name) VALUES (1, 'Jen', 'Smith')
+INSERT INTO tbl_author(id, first_name, last_name) VALUES (2, 'John', 'Smith')
+INSERT INTO tbl_book (id, title, price, isbn, author_id) VALUES (1, 'PM_101', 10.0, '0-12-34-5', 1)
+INSERT INTO tbl_book (id, title, price, isbn, author_id) VALUES (2, 'PM_102', 20.0, '1-12-34-5', 1)
+INSERT INTO tbl_book (id, title, price, isbn, author_id) VALUES (3, 'PM_103', 20.0, '2-12-34-5', 2)
